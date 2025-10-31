@@ -2,6 +2,7 @@
   "extends": [
     "development"
   ],
+<<<<<<< HEAD
   "hints": {
     "compat-api/css": [
       "default",
@@ -12,4 +13,12 @@
       }
     ]
   }
+=======
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not ios_saf <= 17.5",
+    "not safari <= 17.5"
+  ]
+>>>>>>> add-age
 }
